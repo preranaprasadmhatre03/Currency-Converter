@@ -1,4 +1,4 @@
-# Currency-Converter
+💱 Currency Converter 
 A responsive currency converter web application built using Java 21, Spring Boot, HTML, CSS, and JavaScript.
 
 ✨ Features
